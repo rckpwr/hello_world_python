@@ -12,4 +12,3 @@ msg = "Hello World"
 # it prints the specified object to the screen
 # in this case the object is our msg
 print(msg)
-
